@@ -1,2 +1,2 @@
 This is the first line in the second file
-This is the second line in the second file
+This is the 2nd line in the 2nd file
