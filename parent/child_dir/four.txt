@@ -1,3 +1,4 @@
 This is the first line in the fourth file
 This is the second line in the fourth file
 This is the third line in the fourth file
+This is the 4th line in the 4th file
