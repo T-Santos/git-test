@@ -1,0 +1,9 @@
+This is the first line in the fourth file
+This is the second line in the fourth file
+This is the third line in the fourth file
+<<<<<<< e89f9656f16b3d15abac286c337edf05b84b82b9
+This is the fourth line in the fourth file
+This is the 5th line in the 5th file
+=======
+This is the 4th line in the 4th file
+>>>>>>> bug branch 4x4
