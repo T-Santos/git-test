@@ -3,3 +3,4 @@ This is the second line in the file, after the first.
 This is the 3rd line in the first file...i think
 This is the 4th line in the first file... i know this for sure
 This is the 5th line
+This is the 6th line	
